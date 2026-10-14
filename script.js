@@ -1,3 +1,4 @@
+// додатково зробила лічильник, фільтри і очистити виконане.
 const input = document.getElementById("input"),
   addBtn = document.getElementById("addBtn"),
   list = document.getElementById("list"),
